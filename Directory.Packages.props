@@ -6,9 +6,9 @@
     <!-- PiBox -->
     <PackageVersion Version="1.0.85" Include="PiBox.Api.OpenApi" />
     <PackageVersion Version="1.0.85" Include="PiBox.Extensions.Abstractions" />
-    <PackageVersion Version="1.0.85" Include="PiBox.Hosting.Abstractions" />
+    <PackageVersion Version="1.0.91" Include="PiBox.Hosting.Abstractions" />
     <PackageVersion Version="1.0.85" Include="PiBox.Hosting.Generator" />
-    <PackageVersion Version="1.0.85" Include="PiBox.Hosting.WebHost" />
+    <PackageVersion Version="1.0.91" Include="PiBox.Hosting.WebHost" />
     <PackageVersion Version="1.0.85" Include="PiBox.Plugins.Handlers.Cqrs" />
     <PackageVersion Version="1.0.85" Include="PiBox.Plugins.Persistence.Abstractions" />
     <PackageVersion Version="1.0.85" Include="PiBox.Testing" />
