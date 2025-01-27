@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+      <PackageReference Include="PiBox.Extensions.Abstractions" />
+      <PackageReference Include="PiBox.Testing" />
+      <ProjectReference Include="..\..\src\PiBox.Plugins.Endpoints.Abstractions\PiBox.Plugins.Endpoints.Abstractions.csproj" />
+    </ItemGroup>
+
+</Project>

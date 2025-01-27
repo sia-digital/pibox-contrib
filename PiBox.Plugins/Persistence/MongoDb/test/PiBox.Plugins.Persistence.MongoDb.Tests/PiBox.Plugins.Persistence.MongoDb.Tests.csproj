@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <IsPackable>false</IsPackable>
+        <RootNamespace>PiBox.Plugins.Persistence.MongoDb</RootNamespace>
+    </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PiBox.Testing" />
+    <ProjectReference Include="..\..\src\PiBox.Plugins.Persistence.MongoDb\PiBox.Plugins.Persistence.MongoDb.csproj" />
+  </ItemGroup>
+</Project>

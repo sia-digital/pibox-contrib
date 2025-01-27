@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="KafkaFlow" />
+      <PackageReference Include="KafkaFlow.Extensions.Hosting" />
+      <PackageReference Include="KafkaFlow.LogHandler.Microsoft" />
+      <PackageReference Include="KafkaFlow.Microsoft.DependencyInjection" />
+      <PackageReference Include="KafkaFlow.SchemaRegistry" />
+      <PackageReference Include="KafkaFlow.Serializer" />
+      <PackageReference Include="KafkaFlow.Serializer.ProtobufNet" />
+      <PackageReference Include="KafkaFlow.Serializer.SchemaRegistry.ConfluentProtobuf" />
+      <PackageReference Include="KafkaFlow.TypedHandler" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="PiBox.Hosting.Abstractions" />
+    </ItemGroup>
+
+</Project>

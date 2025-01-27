@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <DocumentationFile>PiBox.Plugins.Endpoints.RestResourceEntity.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PiBox.Api.OpenApi" />
+    <PackageReference Include="PiBox.Hosting.Abstractions" />
+    <PackageReference Include="PiBox.Plugins.Handlers.Cqrs" />
+    <ProjectReference Include="..\..\..\Abstractions\src\PiBox.Plugins.Endpoints.Abstractions\PiBox.Plugins.Endpoints.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

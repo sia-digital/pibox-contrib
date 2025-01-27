@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <IsPackable>true</IsPackable>
+    </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.HealthChecks.MongoDb" />
+    <PackageReference Include="MongoDB.Driver" />
+    <PackageReference Include="MongoDBMigrations" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PiBox.Plugins.Persistence.Abstractions" />
+  </ItemGroup>
+
+</Project>
