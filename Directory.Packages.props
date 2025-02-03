@@ -6,12 +6,12 @@
     <!-- PiBox -->
     <PackageVersion Version="1.0.85" Include="PiBox.Api.OpenApi" />
     <PackageVersion Version="1.0.85" Include="PiBox.Extensions.Abstractions" />
-    <PackageVersion Version="1.0.85" Include="PiBox.Hosting.Abstractions" />
+    <PackageVersion Version="1.1.8" Include="PiBox.Hosting.Abstractions" />
     <PackageVersion Version="1.0.85" Include="PiBox.Hosting.Generator" />
-    <PackageVersion Version="1.0.85" Include="PiBox.Hosting.WebHost" />
+    <PackageVersion Version="1.1.6" Include="PiBox.Hosting.WebHost" />
     <PackageVersion Version="1.0.85" Include="PiBox.Plugins.Handlers.Cqrs" />
-    <PackageVersion Version="1.0.85" Include="PiBox.Plugins.Persistence.Abstractions" />
-    <PackageVersion Version="1.0.85" Include="PiBox.Testing" />
+    <PackageVersion Version="1.1.6" Include="PiBox.Plugins.Persistence.Abstractions" />
+    <PackageVersion Version="1.1.6" Include="PiBox.Testing" />
 
     <PackageVersion Version="8.0.2" Include="Microsoft.EntityFrameworkCore.Sqlite" />
     <PackageVersion Version="3.1.1" Include="Microsoft.FeatureManagement" />
@@ -61,11 +61,11 @@
     <PackageVersion Version="1.51.91" Include="ODataQueryHelper.Core" />
     <PackageVersion Version="4.8.0" Include="Microsoft.CodeAnalysis.CSharp" />
     <PackageVersion Version="3.3.4" Include="Microsoft.CodeAnalysis.Analyzers" />
-    <PackageVersion Version="8.0.0" Include="Microsoft.Extensions.Hosting.Abstractions" />
-    <PackageVersion Version="8.0.0" Include="Microsoft.Extensions.Logging.Abstractions" />
+    <PackageVersion Version="8.0.1" Include="Microsoft.Extensions.Hosting.Abstractions" />
+    <PackageVersion Version="8.0.2" Include="Microsoft.Extensions.Logging.Abstractions" />
     <PackageVersion Version="8.0.0" Include="Microsoft.Extensions.Configuration" />
     <PackageVersion Version="8.0.0" Include="Microsoft.Extensions.DependencyInjection" />
-    <PackageVersion Version="8.0.0" Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+    <PackageVersion Version="8.0.2" Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
     <PackageVersion Version="8.0.2" Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" />
     <PackageVersion Version="8.0.2" Include="Microsoft.Extensions.Http.Polly" />
     <PackageVersion Version="8.0.0" Include="Microsoft.Extensions.Caching.Abstractions" />
@@ -106,9 +106,9 @@
     <PackageVersion Version="4.0.1" Include="NUnit" />
     <PackageVersion Version="1.2.1.1" Include="NUnit.Allure" />
     <PackageVersion Version="4.1.6" Include="Unleash.Client" />
-    <PackageVersion Version="3.0.24" Include="Vogen" />
+    <PackageVersion Version="6.0.0" Include="Vogen" />
     <PackageVersion Version="1.5.47" Include="WireMock.Net" />
-    <PackageVersion Version="15.1.1" Include="YamlDotNet" />
+    <PackageVersion Version="15.1.6" Include="YamlDotNet" />
     <PackageVersion Version="1.3.10" Include="EzSmb" />
   </ItemGroup>
 </Project>
