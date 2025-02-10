@@ -21,10 +21,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageVersion>
-    <PackageVersion Version="2.5.1" Include="KafkaFlow" />
+    <PackageVersion Version="3.0.10" Include="KafkaFlow" />
     <PackageVersion Version="2.5.1" Include="KafkaFlow.Extensions.Hosting" />
     <PackageVersion Version="2.5.1" Include="KafkaFlow.LogHandler.Microsoft" />
-    <PackageVersion Version="2.5.1" Include="KafkaFlow.Microsoft.DependencyInjection" />
+    <PackageVersion Version="3.0.10" Include="KafkaFlow.Microsoft.DependencyInjection" />
     <PackageVersion Version="2.5.1" Include="KafkaFlow.SchemaRegistry" />
     <PackageVersion Version="2.5.1" Include="KafkaFlow.Serializer" />
     <PackageVersion Version="2.5.1" Include="KafkaFlow.Serializer.ProtobufNet" />
