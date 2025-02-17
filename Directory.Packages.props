@@ -34,6 +34,6 @@
     <PackageVersion Version="2.2.0" Include="MongoDBMigrations" />
     <PackageVersion Version="17.12.0" Include="Microsoft.NET.Test.Sdk" />
     <PackageVersion Version="4.6.0" Include="NUnit3TestAdapter" />
-    <PackageVersion Version="1.5.47" Include="WireMock.Net" />
+    <PackageVersion Version="1.7.2" Include="WireMock.Net" />
   </ItemGroup>
 </Project>
